@@ -3,7 +3,7 @@ public class FibonacciSeries {
         int n = 10; 
         int first = 0, second = 1;
 
-        System.out.println("Fibonacci Series up to " + n + " terms:");
+        System.out.println("Fibonacci Series up to MANOJ " + n + " terms:");
         for (int i = 1; i <= n; i++) {
             System.out.print(first + " ");
             int next = first + second;
